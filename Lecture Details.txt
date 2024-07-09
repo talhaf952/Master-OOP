@@ -5,10 +5,10 @@ Lecture 2, Demo 1(Wednesday)
 Lecture 3, Demo 2(Thursday)
 
 Lecture 4 (Monday)
-Pass by value 
-Pass by reference 
-Const functions
-Const parameters
-Default parameters 
-Reference variables
-Copy constructors
+1. Pass by value 
+2. Pass by reference 
+3. Const functions 
+4. Const parameters
+4. Default parameters 
+6. Reference variables
+7. Copy constructors
