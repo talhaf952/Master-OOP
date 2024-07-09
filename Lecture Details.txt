@@ -8,3 +8,7 @@ Lecture 4 (Monday)
 Pass by value 
 Pass by reference 
 Const functions
+Const parameters
+Default parameters 
+Reference variables
+Copy constructors
