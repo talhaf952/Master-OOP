@@ -3,7 +3,7 @@ Lecture 1 (Tuesday)
 Lecture 2, Demo 1(Wednesday)
 
 Lecture 3, Demo 2(Thursday)
-
+No Lecture(Friday)
 Lecture 4 (Monday)
 1. Pass by value 
 2. Pass by reference 
