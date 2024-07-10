@@ -5,7 +5,9 @@ Lecture 2, Demo 1(Wednesday)
 Lecture 3, Demo 2(Thursday)
 
 No Lecture(Friday)
-No Lecture(Thursday)
+No Lecture(Saturday)
+No Lecture(Sunday)
+
 
 Lecture 4 (Monday)
 1. Pass by value 
